@@ -7,9 +7,8 @@ A ROS 2-integrated simulation environment for controlling a Kinova 6-DoF robotic
 
 The animation shows the full controller demonstration, without trimming.
 
-![Kinova closed-loop inverse kinematics simulation](rendered_samples/kinova_simulation.gif)
+<img width="960" height="320" alt="Image" src="https://github.com/user-attachments/assets/35aaff84-fad3-41f7-87d6-0194019f85cd" />
 
-[Watch the original full-resolution video](https://github.com/user-attachments/assets/af639375-576d-4b2c-9606-df6b9f720daa) · [MP4 in this repository](rendered_samples/rendered_sample.mp4)
 
 ---
 
